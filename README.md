@@ -15,7 +15,7 @@ The endpoint responds with `pong`. Run the application with:
 mvn spring-boot:run
 ```
 
-The project requires Java 25 LTS.
+The project requires Java 21 or later.
 
 Run the tests with:
 
