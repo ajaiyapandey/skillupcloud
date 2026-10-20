@@ -1,0 +1,5 @@
+aws_region      = "us-east-1"
+aws_account_id  = "521024927848"
+project_name    = "skillupcloud"
+environment     = "dev"
+s3_bucket_name  = "awsupskill2026"
