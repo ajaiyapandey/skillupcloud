@@ -4,5 +4,5 @@ server:
 
 app:
   s3:
-    bucket: ${S3_BUCKET:}
+    bucket: ${S3_BUCKET:awsupskill2026}
     region: ${AWS_REGION:us-east-1}
