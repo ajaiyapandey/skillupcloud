@@ -15,7 +15,13 @@ terraform -version
 aws sts get-caller-identity
 ```
 
-## 3. Configure AWS CLI credentials
+## 3. Check current AWS identity after AWS CLI setup
+
+```bash
+aws sts get-caller-identity
+```
+
+## 4. Configure AWS CLI credentials
 
 ```bash
 aws configure
